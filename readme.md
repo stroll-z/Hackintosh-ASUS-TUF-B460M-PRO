@@ -75,5 +75,5 @@ sudo pmset tcpkeepalive 0
 ```
 
 ## 效果图
-![Image text]（）
+![Image text]（https://github.com/stroll-z/Hackintosh-ASUS-TUF-B460M-PRO/blob/main/%E6%88%AA%E5%B1%8F2023-05-11%2000.04.29.png）
 ![Image text]（）
