@@ -64,7 +64,7 @@ SystemSerialNumber、SystemUUID 和 MLB。已经移除， 需要自己生成添�
 
 &ensp;
 
-##电源相关设置
+## 电源相关设置
 在终端依次执行以下指令或使用 HackinTool 修复电源选项，可有效防止睡眠引发系统崩溃。
 ```
 sudo pmset autopoweroff 0
