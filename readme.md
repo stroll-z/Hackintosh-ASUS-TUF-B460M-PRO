@@ -73,3 +73,7 @@ sudo pmset standby 0
 sudo pmset proximitywake 0
 sudo pmset tcpkeepalive 0
 ```
+
+## 效果图
+![Image text]（）
+![Image text]（）
