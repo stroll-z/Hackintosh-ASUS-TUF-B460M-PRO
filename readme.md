@@ -73,4 +73,5 @@ sudo pmset standby 0
 sudo pmset proximitywake 0
 sudo pmset tcpkeepalive 0
 ```
+![imnage](https://github.com/stroll-z/Hackintosh-ASUS-TUF-B460M-PRO/blob/main/2023-05-11%2000.04.29.jpg)
 
