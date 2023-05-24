@@ -1,7 +1,6 @@
 # Hackintosh ASUS TUF-B460M-PRO
 ```
-基于opencore 0.9.1
-由https://github.com/VanXNF/Hackintosh-Gigabyte-B460M-Aorus-Pro 修改而来，特此感谢
+更新到 opencore 0.9.2
 ```
 
 &ensp;
